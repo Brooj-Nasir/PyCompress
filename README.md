@@ -93,7 +93,7 @@ def is_strong_password(password):
 ## Screenshots
 - **Main Interface**: A modern UI with stylish buttons and a dynamic output display.
 - **Compression/Decompression Logs**: Details of actions performed, including success or error messages.
-- ![image](https://github.com/Brooj-Nasir/BRESS/blob/main/ss%20bress.png)
+![image](https://github.com/Brooj-Nasir/BRESS/blob/main/ss%20bress.png)
 
 ## Error Handling
 - Displays detailed error messages using `messagebox` dialogs for scenarios like:
